@@ -1,7 +1,7 @@
 # First App for Docker
 
 ---
-![Main workflow](https://github.com/hillel-i-python-pro-i-2023-06-23/homework__yevhenii_yevtushenko__5_docker/blob/02_docker/.github/workflows/main-workflow.yml/badge.svg)
+![Main workflow](https://github.com/hillel-i-python-pro-i-2023-06-23/homework__yevhenii_yevtushenko__5_docker/actions/workflows/main-workflow.yml/badge.svg)
 ## 🏠 Homework
 
 Homework #5 related actions.
