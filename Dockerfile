@@ -10,9 +10,6 @@ WORKDIR ${WORKDIR}
 RUN useradd --system ${USER} && \
     chown --recursive ${USER} ${WORKDIR}
 
-RUN groupadd docker && \
-    usermod -aG docker ${USER} \
-    && newgrp docker
 
 RUN apt update && apt upgrade -y
 
